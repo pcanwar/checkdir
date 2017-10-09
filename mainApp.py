@@ -32,7 +32,7 @@ def saveDb(db, dbName = "Anwar.DB"):
     db.save(dbName)
 
 if __name__ == "__main__":
-    print("""File management system V1.0 by Anwar pcanw@live.com
+    print("""File management system V1.0 by Anwar aalruwai@stevens.edu & pcanw@live.com
 User can provide database name or leave it empty for default name 'Default.db'
 If database doesn't exist, new one will be created.
 
